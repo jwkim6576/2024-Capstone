@@ -1,50 +1,55 @@
-# 2024-Capstone
-2024 Capstone
-2024.Seoultech.uni.Capstone design project
+# 2024 Capstone
+2024.Seoultech.uni.Capstone design project 
 
-Introduce
-Demonstration
+## Introduce
 
-Enviroments
-Doosan-Robotics collaborative robot m1013
-Intel-RealSense 435i
-SCHUNK EGP-64 gripper
+[![Demonstration](https://img.youtube.com/vi/67THgPcDFbM/0.jpg)](https://youtu.be/67THgPcDFbM?si=j3orbEogeqPs7gPL)
 
-Build
+## Enviroments
+Doosan-Robotics collaborative robot m1013 <br>
+Intel-RealSense 435i<br>
+SCHUNK EGP-64 gripper<br>
+
+## Build
 This program is implemented at Ubuntu 20.04 - ROS-Noetic
 
-0) ROS-Noetic
-http://wiki.ros.org/noetic/Installation/Ubuntu
+#### 0) ROS-Noetic
+[http://wiki.ros.org/noetic/Installation/Ubuntu](http://wiki.ros.org/noetic/Installation/Ubuntu)<br>
 
-Our project needs the packages written below.
+Our project needs the packages written below.<br>
 
-1) Doosan-Robotics noetic-devel
-https://github.com/doosan-robotics/doosan-robot#overview
+#### 1) Doosan-Robotics noetic-devel 
+[https://github.com/doosan-robotics/doosan-robot#overview](https://github.com/doosan-robotics/doosan-robot#overview)<br>
 
-2) Intel-Realsense
-https://github.com/IntelRealSense/realsense-ros/tree/ros1-legacy
+#### 2) Intel-Realsense
+[https://github.com/IntelRealSense/realsense-ros/tree/ros1-legacy](https://github.com/IntelRealSense/realsense-ros/tree/ros1-legacy)<br>
 
-3) PCL
-https://github.com/PointCloudLibrary/pcl
+#### 3) PCL
+[https://github.com/PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)<br>
 
-Cuda environment is cuda 12.1+cudnn 8.9.0
-Pytorch version is 2.2.2+cu121
+Cuda environment is **cuda 12.1+cudnn 8.9.0** <br>
+Pytorch version is **2.2.2+cu121**
 
-4) Yolo v7
-https://gitlab.com/Alsrbile/2023-capstone/-/tree/main/catkin_test/src/yolov7-u7/src/seg?ref_type=heads
+#### 4) Yolo v7
 
-You should download this package.
+[https://gitlab.com/Alsrbile/2023-capstone/-/tree/main/catkin_test/src/yolov7-u7/src/seg?ref_type=heads](https://gitlab.com/Alsrbile/2023-capstone/-/tree/main/catkin_test/src/yolov7-u7?ref_type=heads)<br>
 
-How to use?
-Create ROS workspace in the place you want.
+You should download this package.<br>
 
-Clone this repository inside the src directory.
+# How to use?
 
-Install requirements.
+0. Create ROS workspace in the place you want.
 
-Feel free to use!
+1. Clone [this repository](https://github.com/2024-Palletizing-System/2024-Capstone.git) inside the src directory.
 
-Reference
-https://github.com/jerry800416/3dbinpacking
-License
-APACHE2.0
+2. Install requirements.
+
+3. Feel free to use!
+
+## Reference
+
+* https://github.com/jerry800416/3dbinpacking
+
+## License
+
+[APACHE2.0](https://github.com/2024-Palletizing-System/2024-Capstone/blob/97ec6a8b2618ddeaa44a3a86d2a94cd1d58d414c/LICENSE)
