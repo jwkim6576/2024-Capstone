@@ -1,0 +1,62 @@
+[INFO]  2024-11-22 14:10:22,864:
+Selected mode: REAL
+
+[INFO]  2024-11-22 14:10:23,800:
+Trying to stop DSR process.
+
+[ERROR]  2024-11-22 14:10:23,801:
+DSR process was not running.
+
+[INFO]  2024-11-22 14:10:23,801:
+Trying to start DSR
+
+[INFO]  2024-11-22 14:10:23,803:
+DSR started successfully.
+
+[INFO]  2024-11-22 14:10:25,786:
+Trying to stop Realsense process.
+
+[ERROR]  2024-11-22 14:10:25,786:
+Realsense process was not running.
+
+[INFO]  2024-11-22 14:10:25,786:
+Trying to start Realsense
+
+[INFO]  2024-11-22 14:10:25,791:
+Realsense started successfully.
+
+[INFO]  2024-11-22 14:10:34,282:
+DSR services are available. Moving robot to home position.
+
+[INFO]  2024-11-22 14:10:34,285:
+<pos> 500.000 400.000 880.000 0.000 180.000 0.000
+
+[INFO]  2024-11-22 14:10:34,510:
+Successfully moved to home position.
+
+[INFO]  2024-11-22 14:10:37,422:
+Trying to stop YOLO process.
+
+[ERROR]  2024-11-22 14:10:37,423:
+YOLO process was not running.
+
+[INFO]  2024-11-22 14:10:37,424:
+Trying to activate YOLO
+
+[INFO]  2024-11-22 14:10:47,594:
+Trying to stop Packing Algorithm process.
+
+[ERROR]  2024-11-22 14:10:47,595:
+Packing Algorithm process was not running.
+
+[INFO]  2024-11-22 14:10:47,595:
+Trying to start Packing Algorithm
+
+[INFO]  2024-11-22 14:10:47,600:
+Packing Algorithm started successfully.
+
+[INFO]  2024-11-22 14:11:36,931:
+Attempting to shutdown system.
+
+[INFO]  2024-11-22 14:11:41,955:
+All ROS processes terminated. Shutting down GUI.
