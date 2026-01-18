@@ -1,0 +1,5 @@
+[INFO]  2024-12-19 01:05:15,943 KST:
+Attempting to shutdown system.
+
+[INFO]  2024-12-19 01:05:21,865 KST:
+All ROS processes terminated. Shutting down GUI.
