@@ -1,0 +1,71 @@
+[INFO]  2024-11-22 14:25:41,559:
+Selected mode: REAL
+
+[INFO]  2024-11-22 14:25:42,464:
+Trying to stop DSR process.
+
+[ERROR]  2024-11-22 14:25:42,465:
+DSR process was not running.
+
+[INFO]  2024-11-22 14:25:42,465:
+Trying to start DSR
+
+[INFO]  2024-11-22 14:25:42,467:
+DSR started successfully.
+
+[INFO]  2024-11-22 14:26:02,291:
+DSR services are not available. Robot activation failed.
+
+[INFO]  2024-11-22 14:26:08,436:
+Trying to stop DSR process.
+
+[WARNING]  2024-11-22 14:26:13,572:
+Forcefully killed DSR process.
+
+[ERROR]  2024-11-22 14:26:13,574:
+Process error: Process crashed
+
+[ERROR]  2024-11-22 14:26:13,574:
+Failed to start DSR: Process crashed
+
+[INFO]  2024-11-22 14:26:21,642:
+Selected mode: REAL
+
+[INFO]  2024-11-22 14:26:21,642:
+Trying to stop DSR process.
+
+[ERROR]  2024-11-22 14:26:21,643:
+DSR process was not running.
+
+[INFO]  2024-11-22 14:26:21,643:
+Trying to start DSR
+
+[INFO]  2024-11-22 14:26:21,648:
+DSR started successfully.
+
+[INFO]  2024-11-22 14:26:31,284:
+DSR services are available. Moving robot to home position.
+
+[INFO]  2024-11-22 14:26:31,286:
+<pos> 500.000 400.000 880.000 0.000 180.000 0.000
+
+[INFO]  2024-11-22 14:26:31,509:
+Successfully moved to home position.
+
+[INFO]  2024-11-22 14:26:32,249:
+Trying to stop Realsense process.
+
+[ERROR]  2024-11-22 14:26:32,249:
+Realsense process was not running.
+
+[INFO]  2024-11-22 14:26:32,250:
+Trying to start Realsense
+
+[INFO]  2024-11-22 14:26:32,254:
+Realsense started successfully.
+
+[INFO]  2024-11-22 14:28:27,449:
+Attempting to shutdown system.
+
+[INFO]  2024-11-22 14:28:32,474:
+All ROS processes terminated. Shutting down GUI.
