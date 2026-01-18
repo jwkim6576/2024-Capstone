@@ -1,0 +1,5 @@
+float64[] obstacle
+float64[] vertices
+float64[] volumes
+float64[] posx
+float64[] robot
