@@ -1,0 +1,3 @@
+<launch>
+  <node name="campus_pj_node" pkg="campus_pj" type="campus_pj_node" output="screen"/>
+</launch>
