@@ -1,0 +1,17 @@
+
+
+---
+float32[] box_vertex1		#pick박스 첫번째 꼭지점 (좌측하단) [x, y, z] 
+float32[] box_vertex2		#pick박스 두번째 꼭지점 (좌측상단)
+float32[] box_vertex3		#pick박스 세번째 꼭지점 (우측상단)
+float32[] box_vertex4		#pick박스 네번째 꼭지점 (우측하단)
+
+float32[] box_handle		#pick 박스 손잡이 위치,rpy (그리퍼 길이 고려 x) [x, y ,z, r, p ,y]
+
+float32[] bin_vertex0		#place 박스 좌측하단 '아랫면' 꼭짓점 [x,y,z]
+float32[] bin_vertex1		#place박스 첫번째 꼭지점 (좌측하단) [x, y, z] 
+float32[] bin_vertex2		#place박스 두번째 꼭지점 (좌측상단)
+float32[] bin_vertex3		#place박스 세번째 꼭지점 (우측상단)
+float32[] bin_vertex4		#place박스 네번째 꼭지점 (우측하단)
+
+float32[] bin_handle		#place 박스 손잡이 위치, rpy (그리퍼 길이 고려x) [x, y ,z, r, p, y]
