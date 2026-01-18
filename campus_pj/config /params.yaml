@@ -1,0 +1,13 @@
+%YAML:1.0
+---
+my_matrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: i
+   data: [ 1, 2, 3, 3, 4, 6, 7, 8, 9 ]
+noise: 4.3299999999999997e+01
+noise_type: Gaussian
+dim: 3
+feature:
+   camera: 2.2999999999999998e+00
+   imu: 10
