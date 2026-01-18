@@ -1,0 +1,3 @@
+std_msgs/String parts
+---
+float32[] results
