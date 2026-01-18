@@ -1,0 +1,126 @@
+[INFO]  2024-11-22 14:03:19,815:
+Selected mode: REAL
+
+[INFO]  2024-11-22 14:03:21,514:
+Trying to stop DSR process.
+
+[ERROR]  2024-11-22 14:03:21,515:
+DSR process was not running.
+
+[INFO]  2024-11-22 14:03:21,515:
+Trying to start DSR
+
+[INFO]  2024-11-22 14:03:21,516:
+DSR started successfully.
+
+[INFO]  2024-11-22 14:03:31,281:
+DSR services are available. Moving robot to home position.
+
+[INFO]  2024-11-22 14:03:31,283:
+<pos> 500.000 400.000 880.000 0.000 180.000 0.000
+
+[INFO]  2024-11-22 14:03:31,485:
+Successfully moved to home position.
+
+[INFO]  2024-11-22 14:03:33,753:
+Trying to stop Realsense process.
+
+[ERROR]  2024-11-22 14:03:33,754:
+Realsense process was not running.
+
+[INFO]  2024-11-22 14:03:33,754:
+Trying to start Realsense
+
+[INFO]  2024-11-22 14:03:33,759:
+Realsense started successfully.
+
+[INFO]  2024-11-22 14:03:38,349:
+Trying to stop YOLO process.
+
+[ERROR]  2024-11-22 14:03:38,350:
+YOLO process was not running.
+
+[INFO]  2024-11-22 14:03:38,350:
+Trying to activate YOLO
+
+[INFO]  2024-11-22 14:03:42,279:
+YOLO is on!
+
+
+[INFO]  2024-11-22 14:05:09,725:
+No process selected to terminate.
+
+[INFO]  2024-11-22 14:05:11,904:
+Trying to stop DSR process.
+
+[WARNING]  2024-11-22 14:05:17,049:
+Forcefully killed DSR process.
+
+[ERROR]  2024-11-22 14:05:17,053:
+Process error: Process crashed
+
+[ERROR]  2024-11-22 14:05:17,053:
+Failed to start DSR: Process crashed
+
+[INFO]  2024-11-22 14:05:22,699:
+Trying to stop Realsense process.
+
+[WARNING]  2024-11-22 14:05:27,836:
+Forcefully killed Realsense process.
+
+[ERROR]  2024-11-22 14:05:27,839:
+Process error: Process crashed
+
+[ERROR]  2024-11-22 14:05:27,839:
+Failed to start Realsense: Process crashed
+
+[INFO]  2024-11-22 14:05:30,783:
+Trying to stop Realsense process.
+
+[ERROR]  2024-11-22 14:05:30,784:
+Realsense process was not running.
+
+[INFO]  2024-11-22 14:05:30,784:
+Trying to stop Yolo process.
+
+[ERROR]  2024-11-22 14:05:31,770:
+YOLO process finished successfully.
+
+[INFO]  2024-11-22 14:05:31,770:
+Stopped Yolo process successfully.
+
+[INFO]  2024-11-22 14:05:31,770:
+Trying to stop Servoing process.
+
+[ERROR]  2024-11-22 14:05:31,771:
+Servoing process was not running.
+
+[INFO]  2024-11-22 14:05:31,771:
+Trying to stop Half Sphere process.
+
+[ERROR]  2024-11-22 14:05:31,771:
+Half Sphere process was not running.
+
+[INFO]  2024-11-22 14:05:31,771:
+Trying to stop Palletizing Gazebo process.
+
+[ERROR]  2024-11-22 14:05:31,771:
+Palletizing Gazebo process was not running.
+
+[INFO]  2024-11-22 14:05:40,823:
+Trying to stop Collision Detect process.
+
+[ERROR]  2024-11-22 14:05:40,824:
+Collision Detect process was not running.
+
+[INFO]  2024-11-22 14:05:42,861:
+Trying to stop DSR process.
+
+[ERROR]  2024-11-22 14:05:42,862:
+DSR process was not running.
+
+[INFO]  2024-11-22 14:05:45,827:
+Attempting to shutdown system.
+
+[INFO]  2024-11-22 14:05:50,862:
+All ROS processes terminated. Shutting down GUI.
