@@ -1,0 +1,12 @@
+{
+    "working_directories": {
+        "yolo_script": "/home/lee/p2planetest2.py",
+        "servoing_script":"/home/lee/catkin_ws/src/beginner_tutorials/src/servoing.py",
+        "collision_detect_script": "/home/lee/catkin_ws/src/beginner_tutorials/src/collision_detect.py",
+        "collision_detect_plot_script": "/home/lee/catkin_ws/src/beginner_tutorials/src/collision_detect_plot.py",
+        "packing_algorithm":"/home/lee/catkin_ws/src/3D-bin-packing/Packing-service3.py",
+        "packing_plot":"/home/lee/catkin_ws/src/plantfarm_ui/rc/plot.png",
+        "servoing_plot":"/home/lee/catkin_ws/src/plantfarm_ui/rc/servoing_plot.png",
+        "pick_plot":"/home/lee/catkin_ws/src/plantfarm_ui/rc/pick_plot.png"
+    }
+}
