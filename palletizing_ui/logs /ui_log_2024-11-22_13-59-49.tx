@@ -1,0 +1,45 @@
+[INFO]  2024-11-22 13:59:55,697:
+Trying to stop YOLO process.
+
+[ERROR]  2024-11-22 13:59:56,606:
+YOLO process was not running.
+
+[INFO]  2024-11-22 13:59:56,607:
+Trying to activate YOLO
+
+[INFO]  2024-11-22 14:00:00,712:
+YOLO is on!
+
+
+[INFO]  2024-11-22 14:00:06,988:
+Trying to stop Yolo process.
+
+[ERROR]  2024-11-22 14:00:07,901:
+YOLO process finished successfully.
+
+[INFO]  2024-11-22 14:00:07,901:
+Stopped Yolo process successfully.
+
+[INFO]  2024-11-22 14:00:07,901:
+Trying to stop Servoing process.
+
+[ERROR]  2024-11-22 14:00:07,902:
+Servoing process was not running.
+
+[INFO]  2024-11-22 14:00:07,902:
+Trying to stop Half Sphere process.
+
+[ERROR]  2024-11-22 14:00:07,902:
+Half Sphere process was not running.
+
+[INFO]  2024-11-22 14:00:07,902:
+Trying to stop Palletizing Gazebo process.
+
+[ERROR]  2024-11-22 14:00:07,902:
+Palletizing Gazebo process was not running.
+
+[INFO]  2024-11-22 14:00:11,528:
+Attempting to shutdown system.
+
+[INFO]  2024-11-22 14:00:16,549:
+All ROS processes terminated. Shutting down GUI.
