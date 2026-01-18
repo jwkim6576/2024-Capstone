@@ -1,0 +1,61 @@
+%YAML:1.0
+---
+R_daniilids: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ .Nan, .Nan, .Nan, .Nan, .Nan, .Nan, .Nan, .Nan, .Nan ]
+T_daniilids: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ .Nan, .Nan, .Nan ]
+R_park: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ .Nan, .Nan, .Nan, .Nan, .Nan, .Nan, .Nan, .Nan, .Nan ]
+T_park: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ .Nan, .Nan, .Nan ]
+R_tsai: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1., 4.4627073485649845e-14, -1.9706837167241205e-12,
+       -4.4627073484523428e-14, 1., 5.7158448414419312e-13,
+       1.9706837167241464e-12, -5.7158448414410527e-13, 1. ]
+T_tsai: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ -6.5547173176435069e+02, 2.1366355396218782e+02,
+       3.8496521223321713e+02 ]
+R_horaud: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1., 0., 0., 0., 1., 0., 0., 0., 1. ]
+T_horaud: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ -6.5547173176434285e+02, 2.1366355396222031e+02,
+       3.8496521223323060e+02 ]
+R_andreff: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.1459320925859866e-01, -3.9950624409709806e-01,
+       6.2562149143770743e-02, 7.8563346356453650e-02,
+       2.3785562058898729e-02, -9.9662532962333372e-01,
+       3.9666996632885310e-01, 9.1642185044059932e-01,
+       5.3140660964033970e-02 ]
+T_andreff: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ 1.6424339202791484e+03, 8.1172761131949237e+03,
+       5.7342393863225993e+02 ]
