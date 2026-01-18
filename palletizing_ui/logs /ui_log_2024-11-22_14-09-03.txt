@@ -1,0 +1,140 @@
+[INFO]  2024-11-22 14:09:06,015:
+Selected mode: REAL
+
+[INFO]  2024-11-22 14:09:06,896:
+Trying to stop DSR process.
+
+[ERROR]  2024-11-22 14:09:06,897:
+DSR process was not running.
+
+[INFO]  2024-11-22 14:09:06,897:
+Trying to start DSR
+
+[INFO]  2024-11-22 14:09:06,899:
+DSR started successfully.
+
+[INFO]  2024-11-22 14:09:15,943:
+Trying to stop Realsense process.
+
+[ERROR]  2024-11-22 14:09:15,944:
+Realsense process was not running.
+
+[INFO]  2024-11-22 14:09:15,945:
+Trying to start Realsense
+
+[INFO]  2024-11-22 14:09:15,949:
+Realsense started successfully.
+
+[INFO]  2024-11-22 14:09:17,277:
+DSR services are available. Moving robot to home position.
+
+[INFO]  2024-11-22 14:09:17,279:
+<pos> 500.000 400.000 880.000 0.000 180.000 0.000
+
+[INFO]  2024-11-22 14:09:17,499:
+Successfully moved to home position.
+
+[INFO]  2024-11-22 14:09:20,874:
+Trying to stop YOLO process.
+
+[ERROR]  2024-11-22 14:09:20,875:
+YOLO process was not running.
+
+[INFO]  2024-11-22 14:09:20,876:
+Trying to activate YOLO
+
+[INFO]  2024-11-22 14:09:30,027:
+Trying to stop Packing Algorithm process.
+
+[ERROR]  2024-11-22 14:09:30,028:
+Packing Algorithm process was not running.
+
+[INFO]  2024-11-22 14:09:30,029:
+Trying to start Packing Algorithm
+
+[INFO]  2024-11-22 14:09:30,043:
+Packing Algorithm started successfully.
+
+[INFO]  2024-11-22 14:09:40,190:
+Trying to stop Packing Algorithm process.
+
+[INFO]  2024-11-22 14:09:40,193:
+Stopped Packing Algorithm process successfully.
+
+[INFO]  2024-11-22 14:09:40,193:
+Trying to start Packing Algorithm
+
+[INFO]  2024-11-22 14:09:40,198:
+Packing Algorithm started successfully.
+
+[INFO]  2024-11-22 14:09:43,415:
+Trying to stop Packing Algorithm process.
+
+[INFO]  2024-11-22 14:09:43,417:
+Stopped Packing Algorithm process successfully.
+
+[INFO]  2024-11-22 14:09:43,418:
+Trying to start Packing Algorithm
+
+[INFO]  2024-11-22 14:09:43,423:
+Packing Algorithm started successfully.
+
+[INFO]  2024-11-22 14:09:43,990:
+Trying to stop Packing Algorithm process.
+
+[ERROR]  2024-11-22 14:09:43,991:
+Process error: Process crashed
+
+[ERROR]  2024-11-22 14:09:43,991:
+Failed to start Packing Algorithm: Process crashed
+
+[INFO]  2024-11-22 14:09:43,991:
+Stopped Packing Algorithm process successfully.
+
+[INFO]  2024-11-22 14:09:43,991:
+Trying to start Packing Algorithm
+
+[INFO]  2024-11-22 14:09:43,994:
+Packing Algorithm started successfully.
+
+[INFO]  2024-11-22 14:09:44,421:
+Trying to stop Packing Algorithm process.
+
+[ERROR]  2024-11-22 14:09:44,422:
+Process error: Process crashed
+
+[ERROR]  2024-11-22 14:09:44,422:
+Failed to start Packing Algorithm: Process crashed
+
+[INFO]  2024-11-22 14:09:44,422:
+Stopped Packing Algorithm process successfully.
+
+[INFO]  2024-11-22 14:09:44,422:
+Trying to start Packing Algorithm
+
+[INFO]  2024-11-22 14:09:44,424:
+Packing Algorithm started successfully.
+
+[INFO]  2024-11-22 14:09:45,295:
+Trying to stop Packing Algorithm process.
+
+[ERROR]  2024-11-22 14:09:45,297:
+Process error: Process crashed
+
+[ERROR]  2024-11-22 14:09:45,297:
+Failed to start Packing Algorithm: Process crashed
+
+[INFO]  2024-11-22 14:09:45,297:
+Stopped Packing Algorithm process successfully.
+
+[INFO]  2024-11-22 14:09:45,297:
+Trying to start Packing Algorithm
+
+[INFO]  2024-11-22 14:09:45,299:
+Packing Algorithm started successfully.
+
+[INFO]  2024-11-22 14:09:57,369:
+Attempting to shutdown system.
+
+[INFO]  2024-11-22 14:10:02,392:
+All ROS processes terminated. Shutting down GUI.
