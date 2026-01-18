@@ -1,0 +1,65 @@
+[INFO]  2024-11-22 13:55:39,880:
+Selected mode: REAL
+
+[INFO]  2024-11-22 13:55:40,874:
+Trying to stop DSR process.
+
+[ERROR]  2024-11-22 13:55:40,874:
+DSR process was not running.
+
+[INFO]  2024-11-22 13:55:40,874:
+Trying to start DSR
+
+[INFO]  2024-11-22 13:55:40,877:
+DSR started successfully.
+
+[INFO]  2024-11-22 13:55:51,280:
+DSR services are available. Moving robot to home position.
+
+[INFO]  2024-11-22 13:55:51,282:
+<pos> 500.000 400.000 880.000 0.000 180.000 0.000
+
+[INFO]  2024-11-22 13:55:51,502:
+Successfully moved to home position.
+
+[INFO]  2024-11-22 13:55:55,427:
+Trying to stop Realsense process.
+
+[ERROR]  2024-11-22 13:55:55,428:
+Realsense process was not running.
+
+[INFO]  2024-11-22 13:55:55,428:
+Trying to start Realsense
+
+[INFO]  2024-11-22 13:55:55,430:
+Realsense started successfully.
+
+[INFO]  2024-11-22 13:55:59,839:
+Trying to stop YOLO process.
+
+[ERROR]  2024-11-22 13:55:59,840:
+YOLO process was not running.
+
+[INFO]  2024-11-22 13:55:59,840:
+Trying to activate YOLO
+
+[ERROR]  2024-11-22 13:55:59,854:
+YOLO process finished with non-standard exit code: 2
+
+[INFO]  2024-11-22 13:56:03,780:
+
+
+[ERROR]  2024-11-22 13:56:03,781:
+Failed to start YOLO.
+
+[INFO]  2024-11-22 13:56:03,781:
+Trying to stop YOLO process.
+
+[INFO]  2024-11-22 13:56:03,786:
+Stopped YOLO process successfully.
+
+[INFO]  2024-11-22 13:56:14,796:
+Attempting to shutdown system.
+
+[INFO]  2024-11-22 13:56:19,810:
+All ROS processes terminated. Shutting down GUI.
