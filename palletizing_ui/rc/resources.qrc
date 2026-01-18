@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="home_logo">unnamed.jpg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file alias="icon">icon.jpg</file>
+    </qresource>
+</RCC>
