@@ -1,0 +1,8 @@
+<launch>
+    <!-- Gazebo 모델 경로 설정 -->
+    <!-- <env name="GAZEBO_MODEL_PATH" value="$(find pallet_gazebo)/meshes:$GAZEBO_MODEL_PATH" /> -->
+
+    <!-- 스크립트 실행 -->
+    <node name="pallet_gazebo" pkg="pallet_gazebo" type="pallet_gazebo_node.py" output="screen"/>
+
+</launch>
