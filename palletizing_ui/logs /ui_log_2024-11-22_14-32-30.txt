@@ -1,0 +1,224 @@
+[INFO]  2024-11-22 14:32:33,040:
+Selected mode: REAL
+
+[INFO]  2024-11-22 14:32:33,938:
+Trying to stop DSR process.
+
+[ERROR]  2024-11-22 14:32:33,939:
+DSR process was not running.
+
+[INFO]  2024-11-22 14:32:33,939:
+Trying to start DSR
+
+[INFO]  2024-11-22 14:32:33,941:
+DSR started successfully.
+
+[INFO]  2024-11-22 14:32:44,284:
+DSR services are available. Moving robot to home position.
+
+[INFO]  2024-11-22 14:32:44,287:
+<pos> 500.000 400.000 880.000 0.000 180.000 0.000
+
+[INFO]  2024-11-22 14:32:44,510:
+Successfully moved to home position.
+
+[INFO]  2024-11-22 14:32:45,355:
+Trying to stop Realsense process.
+
+[ERROR]  2024-11-22 14:32:45,356:
+Realsense process was not running.
+
+[INFO]  2024-11-22 14:32:45,356:
+Trying to start Realsense
+
+[INFO]  2024-11-22 14:32:45,361:
+Trying to stop Servoing process.
+
+[ERROR]  2024-11-22 14:32:45,361:
+Servoing process was not running.
+
+[INFO]  2024-11-22 14:32:45,362:
+Trying to start Servoing
+
+[INFO]  2024-11-22 14:32:45,365:
+Servoing started successfully.
+
+[INFO]  2024-11-22 14:32:45,365:
+Realsense started successfully.
+
+[INFO]  2024-11-22 14:32:55,324:
+Trying to stop YOLO process.
+
+[ERROR]  2024-11-22 14:32:55,325:
+YOLO process was not running.
+
+[INFO]  2024-11-22 14:32:55,326:
+Trying to activate YOLO
+
+[INFO]  2024-11-22 14:32:55,332:
+Trying to stop Half Sphere process.
+
+[ERROR]  2024-11-22 14:32:55,334:
+Half Sphere process was not running.
+
+[INFO]  2024-11-22 14:32:55,334:
+Trying to start Half Sphere
+
+[INFO]  2024-11-22 14:32:55,339:
+Half Sphere started successfully.
+
+[INFO]  2024-11-22 14:33:09,098:
+Trying to stop Packing Algorithm process.
+
+[ERROR]  2024-11-22 14:33:09,098:
+Packing Algorithm process was not running.
+
+[INFO]  2024-11-22 14:33:09,099:
+Trying to start Packing Algorithm
+
+[INFO]  2024-11-22 14:33:09,103:
+Packing Algorithm started successfully.
+
+[INFO]  2024-11-22 14:33:22,524:
+Trying to stop Collision_detect process.
+
+[ERROR]  2024-11-22 14:33:22,525:
+Collision_detect process was not running.
+
+[INFO]  2024-11-22 14:33:22,525:
+Trying to start Collision_detect
+
+[INFO]  2024-11-22 14:33:22,530:
+Trying to stop Collision Detection Plot process.
+
+[ERROR]  2024-11-22 14:33:22,530:
+Collision Detection Plot process was not running.
+
+[INFO]  2024-11-22 14:33:22,531:
+Trying to start Collision Detection Plot
+
+[INFO]  2024-11-22 14:33:22,554:
+Collision Detection Plot started successfully.
+
+[INFO]  2024-11-22 14:33:22,554:
+Collision_detect started successfully.
+
+[ERROR]  2024-11-22 14:33:23,604:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:23,605:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:24,655:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:24,656:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:25,704:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:25,705:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:26,755:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:26,756:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:27,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:27,778:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:28,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:28,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:29,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:29,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:30,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:30,778:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:31,776:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:31,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:32,776:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:32,776:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:33,776:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:33,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:34,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:34,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:35,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:35,778:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:36,776:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:36,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:37,776:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:37,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:38,776:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:38,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:39,776:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:39,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:40,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:40,777:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:41,776:
+Failed to load image from path: 
+
+[ERROR]  2024-11-22 14:33:41,777:
+Failed to load image from path: 
+
+[INFO]  2024-11-22 14:33:42,501:
+Attempting to shutdown system.
+
+[INFO]  2024-11-22 14:33:47,531:
+All ROS processes terminated. Shutting down GUI.
