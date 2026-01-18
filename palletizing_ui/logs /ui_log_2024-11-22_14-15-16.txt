@@ -1,0 +1,104 @@
+[INFO]  2024-11-22 14:15:18,006:
+Selected mode: REAL
+
+[INFO]  2024-11-22 14:15:18,867:
+Trying to stop DSR process.
+
+[ERROR]  2024-11-22 14:15:18,868:
+DSR process was not running.
+
+[INFO]  2024-11-22 14:15:18,868:
+Trying to start DSR
+
+[INFO]  2024-11-22 14:15:18,870:
+DSR started successfully.
+
+[INFO]  2024-11-22 14:15:29,282:
+DSR services are available. Moving robot to home position.
+
+[INFO]  2024-11-22 14:15:29,285:
+<pos> 500.000 400.000 880.000 0.000 180.000 0.000
+
+[INFO]  2024-11-22 14:15:29,511:
+Successfully moved to home position.
+
+[INFO]  2024-11-22 14:15:30,569:
+Trying to stop Realsense process.
+
+[ERROR]  2024-11-22 14:15:30,570:
+Realsense process was not running.
+
+[INFO]  2024-11-22 14:15:30,570:
+Trying to start Realsense
+
+[INFO]  2024-11-22 14:15:30,574:
+Realsense started successfully.
+
+[INFO]  2024-11-22 14:15:32,421:
+Trying to stop YOLO process.
+
+[ERROR]  2024-11-22 14:15:32,421:
+YOLO process was not running.
+
+[INFO]  2024-11-22 14:15:32,421:
+Trying to activate YOLO
+
+[INFO]  2024-11-22 14:15:32,424:
+Trying to stop Servoing process.
+
+[ERROR]  2024-11-22 14:15:32,424:
+Servoing process was not running.
+
+[INFO]  2024-11-22 14:15:32,425:
+Trying to start Servoing
+
+[INFO]  2024-11-22 14:15:32,426:
+Servoing started successfully.
+
+[INFO]  2024-11-22 14:15:32,426:
+Trying to stop Half Sphere process.
+
+[ERROR]  2024-11-22 14:15:32,426:
+Half Sphere process was not running.
+
+[INFO]  2024-11-22 14:15:32,426:
+Trying to start Half Sphere
+
+[INFO]  2024-11-22 14:15:32,454:
+Half Sphere started successfully.
+
+[INFO]  2024-11-22 14:15:32,454:
+Trying to stop Palletizing Gazebo process.
+
+[ERROR]  2024-11-22 14:15:32,455:
+Palletizing Gazebo process was not running.
+
+[INFO]  2024-11-22 14:15:32,455:
+Trying to start Palletizing Gazebo
+
+[INFO]  2024-11-22 14:15:32,456:
+Palletizing Gazebo started successfully.
+
+[INFO]  2024-11-22 14:16:08,211:
+Trying to stop Packing Algorithm process.
+
+[ERROR]  2024-11-22 14:16:08,212:
+Packing Algorithm process was not running.
+
+[INFO]  2024-11-22 14:16:08,212:
+Trying to start Packing Algorithm
+
+[INFO]  2024-11-22 14:16:08,218:
+Packing Algorithm started successfully.
+
+[INFO]  2024-11-22 14:16:13,052:
+Trying to stop Collision_detect process.
+
+[ERROR]  2024-11-22 14:16:13,053:
+Collision_detect process was not running.
+
+[INFO]  2024-11-22 14:16:13,053:
+Trying to start Collision_detect
+
+[INFO]  2024-11-22 14:16:13,058:
+Collision_detect started successfully.
