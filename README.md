@@ -3,7 +3,7 @@
 
 ## Introduce
 
-[![Demonstration](https://img.youtube.com/vi/67THgPcDFbM/0.jpg)](https://youtu.be/67THgPcDFbM?si=j3orbEogeqPs7gPL)
+[![Demonstration](https://img.youtube.com/vi/qGK6PibfUNs/hqdefault.jpg)](https://youtu.be/qGK6PibfUNs)
 
 ## Enviroments
 Doosan-Robotics collaborative robot m1013 <br>
