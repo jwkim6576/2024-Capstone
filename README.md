@@ -53,3 +53,21 @@ You should download this package.<br>
 ## License
 
 [APACHE2.0](https://github.com/2024-Palletizing-System/2024-Capstone/blob/97ec6a8b2618ddeaa44a3a86d2a94cd1d58d414c/LICENSE)
+
+## 🎥 Demo Video
+
+https://youtu.be/qGK6PibfUNs
+
+https://youtu.be/LxzLRnbdRGk
+
+https://youtu.be/T0x4y579fuQ
+
+https://youtu.be/4SJ5xHGQtsg
+
+https://youtube.com/shorts/SE4ciIY4eVQ?feature=share
+
+https://youtu.be/usApjMqfWsg
+
+https://youtu.be/yY4U9l9w8BM
+
+
